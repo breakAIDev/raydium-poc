@@ -1,0 +1,9 @@
+[submodule "lib/raydium-cp-swap"]
+	path = lib/raydium-cp-swap
+	url = https://github.com/raydium-io/raydium-cp-swap.git
+[submodule "lib/raydium-clmm"]
+	path = lib/raydium-clmm
+	url = https://github.com/raydium-io/raydium-clmm.git
+[submodule "lib/raydium-amm"]
+	path = lib/raydium-amm
+	url = https://github.com/raydium-io/raydium-amm.git
